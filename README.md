@@ -104,8 +104,8 @@ Simulation results match expected matrix multiplication outputs.
 
 ## Simulation Waveform
 
-The waveform below shows correct systolic dataflow and accumulation across the NxN array.  
-It highlights the temporal skewing of inputs and stable output values after pipeline latency.
+The waveform below shows correct systolic dataflow, temporal input skewing, and stable output values after pipeline latency.
 
-![Simulation Waveform](waveform.png)
+![Systolic Array Waveform](./simulation/waveform.png)
+
 
